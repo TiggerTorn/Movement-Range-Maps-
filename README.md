@@ -14,7 +14,7 @@ public health contexts.
  Facebook Movement Range Maps
 
  Links:
+ 
  https://dataforgood.facebook.com/dfg/tools/movement-range-maps#accessdata
  
- https://research.facebook.com/blog/2020/06/protecting-privacy-in-facebook-mobility-dat
- a-during-the-covid-19-response/
+ https://research.facebook.com/blog/2020/06/protecting-privacy-in-facebook-mobility-data-during-the-covid-19-response/
