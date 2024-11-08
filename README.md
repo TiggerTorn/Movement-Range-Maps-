@@ -8,3 +8,13 @@ not only delves into these mobility trends but also critically examines the use 
 in the dataset. This approach highlights the balance between deriving meaningful insights from large 
 datasets and maintaining individual privacy, underscoring the ethical dimensions of data science in 
 public health contexts. 
+
+
+## Dataset
+ Facebook Movement Range Maps
+
+ Links:
+ https://dataforgood.facebook.com/dfg/tools/movement-range-maps#accessdata
+ 
+ https://research.facebook.com/blog/2020/06/protecting-privacy-in-facebook-mobility-dat
+ a-during-the-covid-19-response/
