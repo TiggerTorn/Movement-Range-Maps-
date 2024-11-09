@@ -1,4 +1,4 @@
-# Movement-Range-Maps-
+# Movement-Range-Maps
 
 This coursework analyzes Facebook's Movement Range Maps, a critical dataset for 
 understanding human mobility changes during the COVID-19 pandemic. The data, released as part of 
